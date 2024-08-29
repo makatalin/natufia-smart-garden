@@ -6,6 +6,7 @@
   <img src="gallery/Water_tank.png" alt="Water Tank" width="100" height="220"/>
   <img src="gallery/Water_tank_settings.png" alt="Water Tank Settings" width="100" height="220"/>
   <img src="gallery/Nursery_My_plants_info.png" alt="Nursery Plant" width="100" height="220"/>
+  <img src="gallery/Plant_catalogue_favourites.png" alt="Plant Catalogue" width="100" height="220"/>
 </div>
 
 This repository contains the UI/UX design for the Natufia Smart Garden project, created using Figma. The design offers a user-friendly and modern interface tailored for managing and monitoring a smart garden.
