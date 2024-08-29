@@ -3,6 +3,8 @@
 <div style="display: flex; justify-content: space-around;">
   <img src="gallery/Connect_device_design.png" alt="Connect Device" width="120" height="220"/>
   <img src="gallery/Home_page_design.png" alt="Home Page" width="120" height="220"/>
+  <img src="gallery/Water_tank.png" alt="Water Tank" width="120" height="220"/>
+  <img src="gallery/Water_tank_settings.png" alt="Water Tank Settings" width="120" height="220"/>
   <img src="gallery/Nursery_My_plants_info.png" alt="Nursery Plant" width="120" height="220"/>
 </div>
 
