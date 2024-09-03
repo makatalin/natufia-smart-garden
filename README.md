@@ -11,7 +11,7 @@
 
 This repository contains the UI/UX design for the Natufia Smart Garden project, created using Figma. The design offers a user-friendly and modern interface tailored for managing and monitoring a smart garden.
 
-Developed as part of the *User Interface Design* course at VERN' University, this project serves as both a showcase of modern design practices and a practical application of UI/UX principles.
+Developed as part of the *User Interface Design* course at VERN' University.
 
 ## Project Structure
 - `Natufia-Smart-Garden.fig`: The primary Figma design file, available in the root directory.
